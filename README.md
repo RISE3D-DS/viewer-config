@@ -1,2 +1,9 @@
-# viewer-config
-This package adds viewer configuration capabilities to our portals
+# Viewer config service for the RISE3D portal 
+
+## Installation
+
+You can install the package via composer:
+
+```bash
+composer require rise3d/viewer-config
+```
